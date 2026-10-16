@@ -5,6 +5,7 @@ API REST para gestionar libros y préstamos de una biblioteca, hecha con Node.js
 ## Arrancar el servidor
 
 npm install
+
 npm run dev
 
 El servidor se abre en http://localhost:3000
